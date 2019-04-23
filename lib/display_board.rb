@@ -3,4 +3,5 @@
 
 board = ["   |   |   ", "-----------", "   |   |   ", "-----------", "   |   |   "]
 def display_board(arr = board)
+  puts arr
 end
