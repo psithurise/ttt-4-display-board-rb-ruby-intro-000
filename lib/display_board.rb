@@ -2,6 +2,6 @@
 # out the current state.
 
 rows = ["   |   |   ", "-----------", "   |   |   ", "-----------", "   |   |   "]
-def display_board(arr = rows)
-  puts arr
+def display_board(rows)
+  puts rows
 end
